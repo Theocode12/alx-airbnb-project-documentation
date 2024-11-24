@@ -1,6 +1,4 @@
-# **Detailed Requirement Specifications**
-
-Below are the specifications for three key backend features: **User Authentication**, **Property Management**, and **Booking System**.
+# **Detailed Requirement Specifications For User Authentication, Property Management and Booking system**
 
 ---
 
